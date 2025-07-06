@@ -18,4 +18,5 @@ patchYukuhito.xp3 对应游戏：ゆくひとのプレーローマ 使用方法�
 
 patchDearworldre.xp3 对应游戏：Dear world -Re.- 使用方法：改名为patch.xp3并放入根目录
 
+Les Chairs Cruelles.zip 对应游戏：シェル・クレイル～愛しあう逃避の中で～ 使用方法：放入根目录且覆盖
 
