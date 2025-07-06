@@ -16,3 +16,6 @@ patch.xp3 对应游戏：夏恋 ～The love story in summer～ 使用方法：�
 
 patchYukuhito.xp3 对应游戏：ゆくひとのプレーローマ 使用方法：改名为patch.xp3并放入根目录
 
+patchDearworldre.xp3 对应游戏：Dear world -Re.- 使用方法：改名为patch.xp3并放入根目录
+
+
