@@ -12,5 +12,7 @@ Patisserie.zip 对应游戏：Dingir 使用方法：src.bin放入dingir/data目�
 
 scn.pfs 对应游戏：彼女が恋した繁花街 〜True Flower With You〜 使用方法：覆盖替换
 
-patch.xp3 对应游戏：ゆくひとのプレーローマ 使用方法：放入根目录
+patch.xp3 对应游戏：夏恋 ～The love story in summer～ 使用方法：放入根目录
+
+patchYukuhito.xp3 对应游戏：ゆくひとのプレーローマ 使用方法：改名为patch.xp3并放入根目录
 
