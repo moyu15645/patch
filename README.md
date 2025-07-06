@@ -20,3 +20,4 @@ patchDearworldre.xp3 对应游戏：Dear world -Re.- 使用方法：改名为pat
 
 Les Chairs Cruelles.zip 对应游戏：シェル・クレイル～愛しあう逃避の中で～ 使用方法：放入根目录且覆盖
 
+L’oiseau Bleu.zip 对应游戏：青い鳥～L’oiseau Bleu～ 使用方法：更名为data并覆盖
