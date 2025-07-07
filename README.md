@@ -23,3 +23,5 @@ Les Chairs Cruelles.zip 对应游戏：シェル・クレイル～愛しあう�
 L’oiseau Bleu.zip 对应游戏：青い鳥～L’oiseau Bleu～ 使用方法：更名为data并覆盖
 
 jndata5.pak 对应游戏：Juvenile Graffiti -完全版- 使用方法：直接覆盖
+
+水の都の洋菓子店パティスリー.zip 对应游戏：水の都の洋菓子店 使用方法：下载本体后，先打修正补丁，之后将所有内容覆盖。
