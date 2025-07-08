@@ -29,3 +29,5 @@ jndata5.pak 对应游戏：Juvenile Graffiti -完全版- 使用方法：直接�
 KOMOREBI.zip 对应游戏：木漏れ日の並木道 使用方法：覆盖
 
 rena.zip 对应游戏：Renaissance 使用方法：覆盖
+
+kss.zip 对应游戏：彼女の願うこと。ぼくの思うこと。 使用方法：覆盖
