@@ -33,3 +33,5 @@ kss.zip 使用方法：覆盖
 script.dat 使用方法：覆盖
 
 ママトト.zip 使用方法：覆盖
+
+GAMEDATA.zip 使用方法：覆盖
