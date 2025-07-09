@@ -1,7 +1,5 @@
 # patch
 
-存放补丁
-
 ysbin.ypf 使用方法：覆盖
 
 scn.dat 使用方法：覆盖
