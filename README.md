@@ -37,3 +37,5 @@ script.dat 使用方法：覆盖
 GAMEDATA.zip 使用方法：覆盖
 
 HSTK111.zip 使用方法：覆盖
+
+WWD.zip 说明：此包只包含文本修改，TIPS图片修改因数据过大没有放入此包，完整内容见御爱。
