@@ -1,11 +1,8 @@
 # patch
 
-ysbin.ypf 使用方法：覆盖 
+ysbin.ypf 使用方法：覆盖 说明：13月文本未处理
 
-说明：13月文本未处理
-
-scn.dat 使用方法：覆盖 
-说明：未完整测试
+scn.dat 使用方法：覆盖 说明：未完整测试
 
 Patisserie.zip 使用方法：src.bin放入dingir/data目录内覆盖，其余文件放入主目录 说明：测试单线
 
