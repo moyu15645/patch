@@ -28,7 +28,7 @@ KOMOREBI.zip 说明：覆盖即可，未完整测试。
 
 rena.zip 说明：覆盖即可，请使用DMM版本。
 
-kss.zip 说明：覆盖即可，请严格按照2dfan攻略游玩。
+kss.zip 说明：覆盖即可，请严格按照2dfan攻略游玩，其余剧本皆未测试，一定会有bug。
 
 script.dat 说明：覆盖即可，有部分bug，不影响游玩，测试完毕。
 
