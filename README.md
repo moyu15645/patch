@@ -58,4 +58,4 @@ L.zip 说明：解包出5个结局，测了3个BE，还有两个没打出来，�
 
 AQUA.zip 说明：覆盖即可，已测两条线路，其余未测。
 
-AngelBullet.zip 说明：覆盖即可，未测试。
+AngelBullet.zip 说明：覆盖即可，未完整测试。
