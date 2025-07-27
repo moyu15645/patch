@@ -63,3 +63,5 @@ AngelBullet.zip 说明：覆盖即可，未完整测试。
 tudumigusa.zip 说明：解压并将所有内容放入游戏的Data目录进行覆；注意非日区环境下载游戏解压后记得将外层乱码文件夹更名为任意英文名。
 
 DEIGRATIA.zip 说明：放入根目录即可，附了攻略。
+
+Dear My Abyss.zip 说明：解压内容放入根目录，已测试6个结局全通。
