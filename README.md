@@ -67,3 +67,5 @@ DEIGRATIA.zip 说明：放入根目录即可，附了攻略。
 Dear My Abyss.zip 说明：解压内容放入根目录，已测试6个结局全通。
 
 CARE.zip 说明：SEEN.TXT放入DAT覆盖即可，其余放在根目录，已全通。
+
+nagisanovel.tpatch 说明：游戏作者NaGISA，补丁放入根目录启动游戏后需加载一会，提示重启后重新启动即可生效。
