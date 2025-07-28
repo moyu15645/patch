@@ -65,3 +65,5 @@ tudumigusa.zip 说明：解压并将所有内容放入游戏的Data目录进行�
 DEIGRATIA.zip 说明：放入根目录即可，附了攻略。
 
 Dear My Abyss.zip 说明：解压内容放入根目录，已测试6个结局全通。
+
+CARE.zip 说明：SEEN.TXT放入DAT覆盖即可，其余放在根目录，已全通。
