@@ -73,3 +73,5 @@ nagisanovel.tpatch 说明：游戏作者NaGISA，补丁放入根目录启动游�
 かなりあDVD.zip 说明：覆盖SEEN.TXT即可，姑且附了一份字体，无法正常显示简体的可以换了试试。
 
 桜の木下で.zip 说明：覆盖，姑且附了一份字体。
+
+Loveletter.zip 说明：覆盖。
