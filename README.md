@@ -75,3 +75,5 @@ nagisanovel.tpatch 说明：游戏作者NaGISA，补丁放入根目录启动游�
 桜の木下で.zip 说明：覆盖，姑且附了一份字体。
 
 Loveletter.zip 说明：覆盖。
+
+ij7air.swf 说明：覆盖。
