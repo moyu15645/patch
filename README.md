@@ -76,7 +76,7 @@ nagisanovel.tpatch 说明：游戏作者NaGISA，补丁放入根目录启动游�
 
 Loveletter.zip 说明：覆盖。
 
-ij7air.swf 说明：覆盖//修复无法拾取玛纳的bug//修复占卜屋卡死bug
+ij7air.swf 说明：覆盖//修复无法拾取玛纳的bug//修复占卜屋卡死bug//修复风玛纳异常消失bug
 
 0.txt 说明：放入根目录即可，未完全测试，仅测S1。
 
