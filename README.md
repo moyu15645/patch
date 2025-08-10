@@ -89,3 +89,5 @@ ij7air.swf 说明：覆盖//修复无法拾取玛纳的bug//修复占卜屋卡�
 patch2.xp3 说明：放入
 
 女装収容所.zip 说明：放入
+
+campus_notes_patch.xp3 说明：改名为patch.xp3放入目录
