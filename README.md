@@ -91,3 +91,5 @@ patch2.xp3 说明：放入
 女装収容所.zip 说明：放入
 
 campus_notes_patch.xp3 说明：改名为patch.xp3放入目录
+
+MSG.dat 说明：仅补丁，完整整合版见御爱/鲲。
