@@ -103,3 +103,5 @@ DOGEZA.zip 说明：无
 千変挽歌百不思議ＴＥver1.00.zip 说明：无
 
 starchild_30b-.zip 说明：结局异常是正常的，因为本身就开发终止了。
+
+ayakashi.zip 说明：无
