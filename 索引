@@ -139,3 +139,6 @@ SignSystem E22 说明：放入根目录，提供了一份字体，如果无法�
 d2b vs DEARDROPS - Cross the Future.zip 说明：放入根目录
 
 sst_v01.zip 说明：放入根目录
+
+data.zip 说明：启动WinAsar.exe，左侧边栏切换至extract，将游戏resources文件夹内名为app.asar的文件拖入extract窗口点击extract，完成后会生成一个名为app.asar.un...的新文件，将后缀
+删除，更名为app.asar，并将原来的app.asar删掉，进入文件内，进入data文件内，替换scenario文件夹和system文件夹，返回根目录启动游戏即可。
